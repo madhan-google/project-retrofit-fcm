@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73773380725",
+    "project_id": "retrofit-with-fcm",
+    "storage_bucket": "retrofit-with-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73773380725:android:dccebbfe68635dae07f43c",
+        "android_client_info": {
+          "package_name": "com.codekiller.retrofitwithfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73773380725-lj002dpmlivatctf2o1qp417pfjffp40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB4wzRzN2-yvkqxYyfkgRjusgIgzMud0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73773380725-lj002dpmlivatctf2o1qp417pfjffp40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
